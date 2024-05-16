@@ -1,11 +1,11 @@
 # Ex-12-IMPLEMENTATION OF HEAP STORAGE ALLOCATION STRATEGY
-# NAME: JEEVITHA S
-# REGISTER NUMBER: 212222100016
-# Date :24.04.2024
+## NAME: JEEVITHA S
+## REGISTER NUMBER: 212222100016
+## Date :24.04.2024
 
-# Aim : 
+## Aim : 
 To write a program to implement heap storage allocation strategy.
-# ALGORITHM
+## ALGORITHM
 1. Start the program.
 2. Define a function create( ) to create a list of allocated node. This function returns a pointer to head of list.
 3. Define a function display(node) to display the list of allocated nodes.
@@ -14,7 +14,7 @@ To write a program to implement heap storage allocation strategy.
 6. Define a function get_prev(node,value) to look for the previous element in the list.
 7. Define a function delete() to remove an element from the list.
 8. Stop the program.
-# PROGRAM:
+## PROGRAM:
 ```
 #include <stdio.h>
 #include <stdlib.h>
@@ -258,11 +258,11 @@ int main() {
     return 0;
 }
 ```
-# OUTPUT:
+## OUTPUT:
 <img width="737" alt="1" src="https://github.com/manomadhivanan/Ex-12-IMPLEMENTATION-OF-HEAP-STORAGE-ALLOCATION-STRATEGY/assets/115543366/0e5cdcac-1045-4efb-98a1-0a7c7d5a45e9">
 <img width="696" alt="2" src="https://github.com/manomadhivanan/Ex-12-IMPLEMENTATION-OF-HEAP-STORAGE-ALLOCATION-STRATEGY/assets/115543366/d8086e9b-6911-4777-ab87-19b2dda8c50c">
 <img width="766" alt="3" src="https://github.com/manomadhivanan/Ex-12-IMPLEMENTATION-OF-HEAP-STORAGE-ALLOCATION-STRATEGY/assets/115543366/5e73ef62-67f0-44c4-bb15-a97549c5b2d8">
 
-# RESULT:
+## RESULT:
 The heap storage allocation strategy is implemented successfully, and the output is 
 verified.
